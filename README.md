@@ -32,7 +32,3 @@ malik = {
     "open_to"    : "AI / ML roles, research collabs, freelance projects",
 }
 ```
-
-> *"I don't just run models — I understand why they work, and why they fail."*
-
----
