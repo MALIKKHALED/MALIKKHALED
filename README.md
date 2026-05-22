@@ -26,7 +26,7 @@ malik = {
     "role"       : "AI Engineer, Data Scientist",
     "education"  : "B.Sc. Computer Science & AI — Cairo University (2025)",
     "grade"      : "Very Good",
-    "location"   : "Cairo, Egypt 🌍",
+    "location"   : "Cairo, Egypt ",
     "focus"      : ["Machine Learning, Data Science, Deep Learning", "Computer Vision", "LLMs", "Generative Models"],
     "currently"  : "Building AI systems that actually matter",
     "open_to"    : "AI / ML roles, research collabs, freelance projects",
